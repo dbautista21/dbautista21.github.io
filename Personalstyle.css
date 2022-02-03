@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -143,20 +143,20 @@ h1 {
 }
 /* CHILD-All images used in tile-img div */
 #productimage {
-  background-image: url("ProjectLinks/ProductImage.png");
+  background-image: url("ProjectLinks/ProductImage.jpg");
 }
 #surveyimage {
-  background-image: url("ProjectLinks/SurveyImage.png");
+  background-image: url("ProjectLinks/SurveyImage.jpg");
   background-position-x: -2.2rem;
 }
 #technicalimage {
-  background-image: url("ProjectLinks/TechnicalImage.png");
+  background-image: url("ProjectLinks/TechnicalImage.jpg");
 }
 #unsubscribeimage {
-  background-image: url("ProjectLinks/Unsubscribe.png");
+  background-image: url("ProjectLinks/Unsubscribe.jpg");
 }
 #tributeimage {
-  background-image: url("ProjectLinks/TributeImage.png");
+  background-image: url("ProjectLinks/TributeImage.jpg");
 }
 /* END */
 
